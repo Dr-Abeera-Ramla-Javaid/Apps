@@ -232,7 +232,7 @@ const Todo: React.FC = () => {
                   : 'border-white/10 hover:border-white/30'
               }`}
             >
-              <div className="p-5 border-b border-white/10">
+              <div className="p-5 border-b border-black/10">
                 <div className="flex items-center justify-between mb-2">
                   <div className="flex items-center gap-3">
                     <FaFolderOpen className="text-yellow-300 text-lg" />
