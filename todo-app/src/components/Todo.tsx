@@ -214,7 +214,7 @@ const Todo: React.FC = () => {
   };
 
   return (
-    <div className="flex gap-6 p-6 relative z-10 min-h-screen">
+    <div className="flex gap-7 p-6 relative z-10 min-h-screen">
       {/* Memory Collections Side Panel - Move it to the left */}
       <div className="w-96 h-screen sticky top-0 left-0 overflow-y-auto bg-white/10 backdrop-blur-xl p-6 rounded-r-3xl shadow-2xl border border-white/20">
         <div className="flex items-center gap-3 mb-8">
